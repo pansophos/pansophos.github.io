@@ -1,0 +1,40 @@
+{
+  "site": {
+    "title": "πάνσοφος",
+    "base_url": "https://pansophos.github.io",
+    "base_path": "/",
+    "trailing_slash": false,
+    "favicon": "/images/favicon.png",
+    "logo": "/images/Pansophical-Pursuits_menu-icon.png",
+    "logo_width": "400",
+    "logo_height": "100",
+    "logo_text": "πάνσοφος",
+    "apple_touch_icon": "/images/apple-touch-icon.png",
+    "favicon32": "/images/favicon-32x32.png",
+    "favicon16": "/images/favicon-16x16.png",
+    "manifest": "/images/site.webmanifest",
+    "safari_pinned_tab": "/images/safari-pinned-tab.svg"
+  },
+
+  "settings": {
+    "pagination": 5,
+    "summary_length": 100
+  },
+
+  "metadata": {
+    "meta_author": "B.F. Griffith",
+    "meta_image": "/images/Pansophical_Pursuits_LOGO.png",
+    "meta_description": "Pansophos official website"
+  },
+
+  "params": {
+    "contact_form_action": "#",
+    "copyright": "Copyright © B.F. Griffith"
+  },
+
+  "contactinfo": {
+    "address": "Orlando, Florida, United States",
+    "eMail": "BFGriffith@Facebook.com",
+    "Twitter": "@BFGriffith"
+  }
+}
