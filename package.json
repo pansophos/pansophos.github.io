@@ -1,10 +1,10 @@
 {
   "name": "pansophos",
   "version": "1.1.0",
-  "license": "MIT",
+  "license": "LICENSE.md",
   "scripts": {
     "dev": "astro dev --open",
-    "build": "astro build && mkdir ./pansophos && cp -R ./dist/* ./pansophos && mv ./pansophos ./dist",
+    "build": "astro build",
     "format": "prettier -w ."
   },
   "dependencies": {
