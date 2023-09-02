@@ -108,7 +108,7 @@ const { title, meta_title, description, image, noindex, canonical } =
     <meta property="og:type" content="website" />
     <meta
       property="og:url"
-      content={`${config.site.base_url}${config.site.base_path}/${Astro.url.pathname.replace("/", "")}`}
+      content={`${config.site.base_url}/${Astro.url.pathname.replace("/", "")}`}
     />
 
     <!-- twitter-title -->
@@ -138,7 +138,7 @@ const { title, meta_title, description, image, noindex, canonical } =
     <!-- twitter-image -->
     <meta
       name="twitter:image"
-      content={`${config.site.base_url}${config.site.base_path}${
+      content={`${config.site.base_url}/${
         image ? image : config.metadata.meta_image
       }`}
     />

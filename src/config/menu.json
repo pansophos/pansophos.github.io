@@ -36,6 +36,10 @@
       "url": "/contact"
     },
     {
+      "name": "Support",
+      "url": "/support"
+    },
+    {
       "name": "Home",
       "url": "/"
     }

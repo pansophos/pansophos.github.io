@@ -4,7 +4,7 @@
     "base_url": "https://pansophos.github.io",
     "base_path": "/",
     "trailing_slash": false,
-    "favicon": "/images/favicon.png",
+    "favicon": "/images/favicon.ico",
     "logo": "/images/Pansophical-Pursuits_menu-icon.png",
     "logo_width": "400",
     "logo_height": "100",

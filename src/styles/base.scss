@@ -46,3 +46,7 @@ h6,
 .h6 {
   @apply text-h6;
 }
+
+blockquote {
+  font-style: normal !important; // override Tailwind italic blockquotes
+}

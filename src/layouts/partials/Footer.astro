@@ -23,6 +23,9 @@ import { markdownify } from "@lib/utils/textConverter";
     {/* social icons */}
     <Social source={social} className="social-icons mb-8" />
     {/* copyright */}
-    <p set:html={markdownify(config.params.copyright)} class="text-white/75" />
+    <p set:html={markdownify(config.params.copyright)} class="text-white/75" >
+      <img src="/images/bmc_qr.png" style="width:3rem;height:3rem;border-radius:3px;">
+    </p>
+    <!-- <script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="BFGriffith" data-color="#45228f" data-emoji=""  data-font="Poppins" data-text="Buy me a coffee" data-outline-color="#ffffff" data-font-color="#ffffff" data-coffee-color="#FFDD00" ></script> -->
   </div>
 </footer>

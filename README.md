@@ -1,6 +1,8 @@
 # Pansophos ≍ πάνσοφος
 * Audiences increasingly expect／hope for digital content to be freely available, such that the internet can become both midwife＆executioner to publishing.
 ---
+## SUBSIDIARY “child” projects under the πάνσοφος organization
+---
 ## CyɓєrMɑtix 💻 Codєx Tєchnologίɑ
 * CODING or computer technology＆software＋hardware related topics… 🖥⌨️🖲
 ---
@@ -26,10 +28,9 @@
 ---
 ## Hic Sunt Leones 🦁
 > “That the great moments in the struggle of individuals form a chain, that in them the high points of humanity are linked throughout millennia, but what is highest in such a moment of the distant past be for me still alive, bright and great — this is the fundamental thought of the faith in humanity which is expressed in demand for a monumental history. Precisely this demand however, that the great be eternal, occasions the most terrible conflict. For all else which also lives cries no. The monumental ought not arise — that is the counter-watch-word. Dull habit, the small and lowly which fills all corners of the world and wafts like a dense earthly vapour around everything great, deceiving, smothering and suffocating, obstructs the path which the great must still travel to immortality.”
-> －Friedrich Nietzsche, `“Vom Nutzen und Nachteil der Historie für das Leben”` (written in 1874 as part of his `“Unzeitgemässe Betrachtungen”`)
+> － Friedrich Nietzsche, `“Vom Nutzen und Nachteil der Historie für das Leben”` (written in 1874 as part of his `“Unzeitgemässe Betrachtungen”`)
 ---
-## 🀄 Hic Sunt Dracones ⿓ 🐉
-* If you enjoy thinking about, discussing, theorycrafting cool concepts＆optimizations for, or homebrewing house-rules／items／monsters for D&D almost as much as you love actually playing or running ттRPGs － or you’re in search of ideas that might make your adventure sessions＆campaigns more fun － then it’s possible you might take an interest in this content! 🎲
+
 ---
 * This site is based on the [Bookworm Light Astro Theme](https://github.com/themefisher/bookworm-light-astro/) from [`Themefisher`](https://themefisher.com), licensed under the MIT license.
 

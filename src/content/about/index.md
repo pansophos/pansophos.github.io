@@ -9,12 +9,15 @@ what_i_do:
   items:
   - title: "💻 CODING"
     description: "The CyɓєrMɑtix Codєx Tєchnologίɑ project focuses on web-development, computer technologies, or assorted other software＋hardware related topics… 🖥⌨️🖲."
+    url: "https://pansophos.github.io/cybermatrix_codex_technologica/"
   
   - title: "✍🏼 Creative Writing"
     description: "B.F. Griffith is a multi-genre speculative-fiction author who enjoys thoroughly researched worldbuilding＆mythopœία."
+    url: "https://bfgriffith.github.io/writing-portfolio/"
   
   - title: "🀄 Hic Sunt Dracones ⿓ 🐉"
     description: "If you enjoy thinking about, discussing, theorycrafting cool concepts＆optimizations for, or homebrewing house-rules／items／monsters for D&D almost as much as you love actually playing or running ттRPGs － or you’re in search of ideas that might make your adventure sessions＆campaigns more fun － then it’s possible you might take an interest in this content! 🎲"
+    url: "https://bfgriffith.github.io/RPGs/"
 
 ---
 

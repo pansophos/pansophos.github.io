@@ -34,7 +34,7 @@ const { title, description, authors, categories, image, date, tags } =
                 )
                 .map((author, i) => (
                   <a
-                    href={`${config.site.base_path}/authors/${slugify(author.slug)}`}
+                    href={`${config.site.base_url}/authors/${slugify(author.slug)}`}
                     class="flex items-center hover:text-primary font-medium"
                   >
                     {author.data.image && (
@@ -63,7 +63,7 @@ const { title, description, authors, categories, image, date, tags } =
                 categories.map((category: string, i: number) => (
                   <li class="inline-block">
                     <a
-                      href={`/categories/${slugify(category)}`}
+                      href={`${config.site.base_url}/categories/${slugify(category)}`}
                       class="mr-2 hover:text-primary font-medium"
                     >
                       {humanize(category)}{i !== post.data.categories.length - 1 && ","}
@@ -99,7 +99,7 @@ const { title, description, authors, categories, image, date, tags } =
               tags.map((tag: string) => (
                 <li class="inline-block">
                   <a
-                    href={`${config.site.base_path}/tags/${slugify(tag)}`}
+                    href={`${config.site.base_url}/tags/${slugify(tag)}`}
                     class="block rounded-lg bg-theme-light px-4 py-2 font-semibold text-dark text-sm hover:text-primary transition duration-300"
                   >
                     #{humanize(tag)}

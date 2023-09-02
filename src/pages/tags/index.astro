@@ -18,7 +18,7 @@ const tags = await getTaxonomy("posts", "tags");
           tags.map((tag) => (
             <li class="inline-block">
               <a
-                href={`${config.site.base_path}/tags/${tag}`}
+                href={`${config.site.base_url}/tags/${tag}`}
                 class="mb-4 rounded-lg bg-theme-light px-4 py-2 text-dark transition hover:bg-primary hover:text-white flex items-center group"
               >
                 <FaHashtag className="mr-1 text-primary group-hover:text-white transition" />
